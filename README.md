@@ -199,7 +199,6 @@ http://localhost:3000
 
 - The project currently uses mock order IDs and mock email IDs.
 - There is no real database or persistent storage in this demo.
-- Kafka topics are created via the Kafka admin script in `kafka/admin.ts`.
 - The payment endpoint currently posts directly to the broker and is a simplified example for demonstration purposes.
 
 ## Event Flow Example
